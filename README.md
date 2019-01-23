@@ -1,2 +1,0 @@
-# supermercado-hepta
-Projeto-Hepta
